@@ -1,13 +1,12 @@
-# Hi, I'm Bruno Pinto 👋
+# Hello There, I'm Bruno Pinto 👋
 
 Welcome to my GitHub profile! 🚀
-
-I'm a passionate web developer currently looking for new opportunities. I enjoy learning new technologies and building projects that make an impact. Here, you will find some of my personal projects and contributions.
 
 ## 🌐 Technologies
 
 - **Languages**: HTML, CSS, JavaScript, Python
 - **Frameworks**: React, Next.js
+- **Styling**: Sass, Tailwind CSS
 - **Database**: MySQL
 
 ## 📊 GitHub Stats
