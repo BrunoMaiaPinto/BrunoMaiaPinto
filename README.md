@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bruno Pinto 👋
 
-<!--
-**BrunoMaiaPinto/BrunoMaiaPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+I'm a passionate web developer currently looking for new opportunities. I enjoy learning new technologies and building projects that make an impact. Here, you will find some of my personal projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Technologies
+
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Next.js
+- **Database**: MySQL
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomaiapinto&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📢 You can find me here
+
+- 🌐 [My personal website](https://brunopinto.netlify.app/)
+- 📧 [Email](mailto:brunommpinto@sapo.pt)
