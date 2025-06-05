@@ -5,10 +5,12 @@ Welcome to my GitHub profile! 🚀
 ## 🌐 Technologies
 
 - **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks**: React, Next.js
+- **Frameworks**: React, Next.js, Django, Express.js
 - **Styling**: Sass, Tailwind CSS
-- **Database**: MySQL
-
+- **Backend**: Node.js, RESTful APIs
+- **Database**: MySQL, MongoDB
+- **Tool**: VS Code, GitHub, Postman
+  
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomaiapinto&show_icons=true&hide_title=true&count_private=true&hide=prs)
