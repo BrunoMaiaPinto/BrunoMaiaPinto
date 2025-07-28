@@ -12,9 +12,7 @@ Welcome to my GitHub profile! 🚀
   
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomaiapinto&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaiapinto&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomaiapinto&show_icons=true&hide_title=true&count_private=true&hide=prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaiapinto&layout=compact)
 
 ## 📢 You can find me here
 
